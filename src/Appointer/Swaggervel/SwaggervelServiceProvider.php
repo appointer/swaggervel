@@ -37,7 +37,7 @@ class SwaggervelServiceProvider extends ServiceProvider
         // this publishes the default configuration to the user's application config directory
         $this->publishes([
             self::CONFIG_FILE_PATH => config_path(self::CONFIG_FILE),
-        ]);
+        ], 'config');
 
         // this publishes the assets required to run swaggervel-ui
         $this->publishes([
