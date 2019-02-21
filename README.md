@@ -17,7 +17,7 @@ When you run your app in debug mode, Swaggervel will scan your app folder (or an
 All options are well commented within the swaggervel.php config file.
 
 ## How to Use Swagger-php
-The actual Swagger spec is beyond the scope of this package. All Swaggervel does is package up swagger-php and swagger-ui in a Laravel-friendly fashion, and tries to make it easy to serve. For info on how to use swagger-php [look here](http://zircote.com/swagger-php/). For good examples of swagger-php in action [look here](https://github.com/zircote/swagger-php/tree/master/Examples/Petstore).
+The actual Swagger spec is beyond the scope of this package. All Swaggervel does is package up swagger-php and swagger-ui in a Laravel-friendly fashion, and tries to make it easy to serve. For info on how to use swagger-php [look here](http://zircote.com/swagger-php/). For good examples of swagger-php in action [look here](https://github.com/zircote/swagger-php/tree/master/Examples).
 
 ## Further Notes
 This package is a fork of [slampenny/Swaggervel](https://github.com/slampenny/Swaggervel), as it is no longer maintained.
