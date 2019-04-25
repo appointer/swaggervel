@@ -13,14 +13,14 @@ return [
       | Relative path to access parsed swagger annotations.
       |--------------------------------------------------------------------------
     */
-    'doc-route' => 'docs',
+    'doc-route' => '/docs',
 
     /*
       |--------------------------------------------------------------------------
       | Relative path to access public UI resources.
       |--------------------------------------------------------------------------
      */
-    'ui-resource-path' => 'vendor/swaggervel',
+    'ui-resource-path' => '/vendor/swaggervel',
 
     /*
       |--------------------------------------------------------------------------
@@ -34,7 +34,7 @@ return [
       | Relative path to access swagger ui.
       |--------------------------------------------------------------------------
     */
-    'api-docs-route' => 'api/docs',
+    'api-docs-route' => '/api/docs',
 
     /*
       |--------------------------------------------------------------------------
